@@ -1,5 +1,9 @@
 title: Luis Bayley
-#show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+
+header: true
+sidebar: true
+profile_picture: /assets/profile.jpg
+linkedin: https://www.linkedin.com/in/lomfb/
