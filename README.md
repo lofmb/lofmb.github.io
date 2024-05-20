@@ -1,4 +1,6 @@
 # Luis Bayley - Data Analyst Portfolio
+## Profile Picture
+![Profile Picture](/assets/profile.jpg)
 
 Welcome to my professional portfolio. I am Luis Bayley, a data analyst with expertise in data visualization and analysis.
 
@@ -13,14 +15,8 @@ This portfolio showcases my projects and skills in data analysis. Here you will 
 - [LinkedIn](https://www.linkedin.com/in/luisbayley/)
 - [GitHub](https://github.com/lofmb)
 
-## Profile Picture
-![Profile Picture](/assets/profile.jpg)
 
-## Getting Started
-To view the portfolio locally:
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Run Jekyll to serve the site.
+
 
 ```sh
 git clone https://github.com/lofmb/lofmb.github.io.git
