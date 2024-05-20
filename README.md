@@ -1,5 +1,11 @@
-# Luis Bayley - Data Analyst Portfolio
+---
+layout: default
+title: "Luis Bayley - Data Analyst Portfolio"
+---
 
-# Projects
+# Welcome to My Portfolio
+I am Luis Bayley, a data analyst with expertise in data visualization and analysis. Welcome to my professional portfolio.
 
-- Project 1
+## Projects
+- **Project 1:** Description
+- **Project 2:** Description
