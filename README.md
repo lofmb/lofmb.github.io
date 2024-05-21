@@ -18,7 +18,3 @@ This portfolio showcases my projects and skills in data analysis. Here you will 
 
 
 
-```sh
-git clone https://github.com/lofmb/lofmb.github.io.git
-cd lofmb.github.io
-bundle exec jekyll serve
