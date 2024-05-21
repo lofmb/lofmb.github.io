@@ -1,5 +1,4 @@
-title: Luis Bayley
-logo: assets/Logo #3.PNG
-header: true
-sidebar: true
-theme: jekyll-theme-minimal
+title: Luis Bayley's Data Analytics portfolio
+description: To be updated later
+show_downloads: true
+theme: jekyll-theme-cayman
