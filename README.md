@@ -1,6 +1,4 @@
 # Luis Bayley - Data Analyst Portfolio
-## Profile Picture
-![Profile Picture](/assets/profile.jpg)
 
 Welcome to my professional portfolio. I am Luis Bayley, a data analyst with expertise in data visualization and analysis.
 
