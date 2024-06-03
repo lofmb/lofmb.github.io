@@ -1,3 +1,4 @@
+[Linkedin](https://www.linkedin.com/in/lomfb/)
 Luis Bayley - Data Analyst Portfolio
 Welcome to my professional portfolio. I am Luis Bayley, a data analyst with expertise in data visualization and analysis.
 
