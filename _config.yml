@@ -3,6 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Luis Bayley's Data Analytics Portfolio
 description: A collection of self made Data Analytics projects using programs such as Excel, SQL, Python and Tableau
-description: Example test
 show_downloads: true
 #logo: /assets/Logo_No_3.PNG
