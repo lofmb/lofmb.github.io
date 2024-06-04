@@ -1,6 +1,6 @@
-
-- ## [Linkedin](https://www.linkedin.com/in/lomfb/)
-- ## Click [here](https://docs.google.com/uc?export=download&id=1xdENqbvNmsKp4ZI-mbpGBYrVztwz5vSF) to download my CV
+## Links:
+- ### [Linkedin](https://www.linkedin.com/in/lomfb/)
+- ### Click [here](https://docs.google.com/uc?export=download&id=1xdENqbvNmsKp4ZI-mbpGBYrVztwz5vSF) to download my CV
 ---
 Luis Bayley - Data Analyst Portfolio
 Welcome to my professional portfolio. I am Luis Bayley, a data analyst with expertise in data visualization and analysis.
