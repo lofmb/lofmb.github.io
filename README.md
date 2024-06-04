@@ -3,6 +3,5 @@
 ### Click [here](https://docs.google.com/uc?export=download&id=1xdENqbvNmsKp4ZI-mbpGBYrVztwz5vSF) to download my CV
 ---
 
-Projects
-Project 1: Description of Project 1
-Project 2: Description of Project 2
+## Projects
+Project: Using World Data, What can be considered some of the best Caribbean holiday destinations? 
