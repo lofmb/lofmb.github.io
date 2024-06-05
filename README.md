@@ -4,5 +4,5 @@
 ---
 
 ## Projects
-<p style="color:blue">Project: Using World Data, What can be considered some of the best Caribbean holiday destinations?</p> 
+Project: Using World Data, What can be considered some of the best Caribbean holiday destinations?</p> 
 
