@@ -1,7 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Luis Bayley's - Data Analytics Portfolio
+title: Luis Bayley's - Developer Portfolio
 description: A collection of self made Data Analytics projects using programs such as Excel, SQL, Python, and Tableau.
 show_downloads: true
 #logo: /assets/Logo_No_3.PNG
